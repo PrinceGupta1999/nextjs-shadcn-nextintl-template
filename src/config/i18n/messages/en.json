@@ -1,0 +1,11 @@
+{
+  "Index": {
+    "title": "Hello world!"
+  },
+  "NotFound": {
+    "title": "Not Found"
+  },
+  "Error": {
+    "title": "Well this was not supposed to happen"
+  }
+}
